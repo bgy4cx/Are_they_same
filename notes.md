@@ -19,7 +19,7 @@ This is from CodeWar.
 
 ### Guardinas
 
-- Input is two array. 🔴
+- Input is two array. 🔴💿🟢
 - Output is a boolean.
 - Empty or None input gives false.
   
