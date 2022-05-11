@@ -21,7 +21,7 @@ This is from CodeWar.
 
 - Input is two array. 🔴💿🟢💿♻️💿🍅✅
 - Output is a boolean.
-- Empty or None input gives false.🔴💿🟢💿
+- Empty or None input gives false.🔴💿🟢💿♻️💿🍅🍅✅
   
 ### Process
 
