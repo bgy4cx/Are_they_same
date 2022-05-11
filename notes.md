@@ -20,9 +20,9 @@ This is from CodeWar.
 ### Guardinas
 
 - Input is two array. 🔴💿🟢💿♻️💿🍅✅
-- Output is a boolean.
+- Output is a boolean. 🔴💿🟢💿
 - Empty or None input gives false.🔴💿🟢💿♻️💿🍅🍅✅
   
 ### Process
 
-- We should divide the element of 'b' with one of the element of 'a' witout remainder. It gives true result. 🔴💿
+- We should divide the element of 'b' with one of the element of 'a' witout remainder. It gives true result. 🔴💿🟢💿

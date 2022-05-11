@@ -7,4 +7,13 @@ def IsItNotEmpty(i):
     return i != [] and i != None
 
 def comp(i1, i2):
-    return False 
+    counter = 0
+    for y in i2:
+        for x in i1:
+            if y == x*x:
+                print(y, x)
+                counter += 1
+                break
+    print(i2, counter)
+    return counter == len(i2) and counter != 0
+
