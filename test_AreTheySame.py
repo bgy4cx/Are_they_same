@@ -18,3 +18,5 @@ def test_IsItNotEmpty_2():
 def test_IsItNoEmpty_3():
     assert IsItNotEmpty([10, 12, 14]) == True
 
+def test_comp():
+    assert comp([11, 11, 3], [121, 121, 9]) == True

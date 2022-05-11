@@ -5,3 +5,6 @@ def IsItInput(i1, i2):
 # It gave false result if the inputs is none or empty list. 
 def IsItNotEmpty(i):
     return i != [] and i != None
+
+def comp(i1, i2):
+    return False 
